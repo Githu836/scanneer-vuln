@@ -31,17 +31,16 @@ python3 scanner-V2.py
 ```
 
 ## 🐧 How to Install (Linux - Ubuntu / Kali / Debian / Arch)
-
+```
 sudo apt update && sudo apt install python3 git -y
 git clone https://github.com/Githu836/scanneer-vuln.git
 cd scanneer-vuln
 pip install -r requirements.txt
 python3 scanner-V2.py
-
 ```
 
 ## 🪟 How to Install (Windows - CMD / PowerShell)
-
+```
 1. Install Python 3.x from python.org
 
 
@@ -54,9 +53,6 @@ git clone https://github.com/Githu836/scanneer-vuln.git
 cd scanneer-vuln
 pip install -r requirements.txt
 python scanner-V2.py
-
-
-
 ```
 
 📎 Tags
