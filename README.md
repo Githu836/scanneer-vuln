@@ -23,7 +23,7 @@ cd scanneer-vuln
 pip install -r requirements.txt
 python3 scanner-V2.py
 
-###🔹 Linux (Ubuntu / Kali / Debian / Arch)
+#🔹 Linux (Ubuntu / Kali / Debian / Arch)
 
 sudo apt update && sudo apt install python3 git -y
 git clone https://github.com/Githu836/scanneer-vuln.git
