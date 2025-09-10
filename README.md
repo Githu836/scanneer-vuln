@@ -5,13 +5,14 @@
 [![Security](https://img.shields.io/badge/security-scanner-blue.svg)]()  
 
 A simple tool for scanning vulnerabilities on a target host.  
-Created for **pentesting, bug bounty, and ethical hacking** learning purposes.  
+Built for **pentesting, bug bounty, and ethical hacking** learning purposes.  
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use it only on systems you own or have permission to test!  
+⚠️ **Disclaimer:** This tool is for educational purposes only.  
+Use it only on systems you own or have explicit permission to test!  
 
 ---
 
-## 📲 Usage  
+## 📲 Installation & Usage  
 
 ### 🔹 Termux (Android)
 ```bash
@@ -22,7 +23,7 @@ cd scanneer-vuln
 pip install -r requirements.txt
 python3 scanner-V2.py
 
-🔹 Linux (Ubuntu / Kali / Debian / Arch)
+###🔹 Linux (Ubuntu / Kali / Debian / Arch)
 
 sudo apt update && sudo apt install python3 git -y
 git clone https://github.com/Githu836/scanneer-vuln.git
@@ -30,7 +31,7 @@ cd scanneer-vuln
 pip install -r requirements.txt
 python3 scanner-V2.py
 
-🔹 Windows (CMD/PowerShell)
+###🔹 Windows (CMD / PowerShell)
 
 1. Install Python 3.x from python.org.
 
