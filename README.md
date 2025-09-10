@@ -55,20 +55,13 @@ pip install -r requirements.txt
 python scanner-V2.py
 ```
 
-📎 Tags
+# 📎 Tags
 
 
-
-
-
-
-
-
-
-
+#pentest #scanner #vulnerability #bugbounty #redteam #infosec #security
 ---
 
-📖 License
+# 📖 License
 
 
 
