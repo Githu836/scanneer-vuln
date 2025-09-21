@@ -21,14 +21,14 @@ Use it only on systems you own or have explicit permission to test!
 ---
 
 ## 📲 How to Install (Termux - Android)
-``bash
+`bash
 pkg install python -y
 pkg install git -y
 git clone https://github.com/Githu836/scanneer-vuln.git
 cd scanneer-vuln
 pip install -r requirements.txt
 python3 scanner-V2.py
-``
+`
 
 ## 🐧 How to Install (Linux - Ubuntu / Kali / Debian / Arch)
 ```
